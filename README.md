@@ -1,4 +1,4 @@
-# Generate-tv-scripts-using RNN-LSTM and Word Embeddings
+# Generate Seinfeld scripts using RNN-LSTM and Word Embeddings
 Generate tv scripts or dialogs using Seinfeld scripts database using AI
 
 

@@ -2,7 +2,7 @@
 # https://github.com/damnever/pigar
 
 # problem_unittests.py: 2
-numpy == 1.17.2
+numpy == 1.22.0
 
 # helper.py: 3
 # problem_unittests.py: 3

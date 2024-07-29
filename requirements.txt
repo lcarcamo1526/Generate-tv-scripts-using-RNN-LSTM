@@ -6,4 +6,4 @@ numpy == 1.17.2
 
 # helper.py: 3
 # problem_unittests.py: 3
-torch == 1.4.0
+torch == 2.2.0
